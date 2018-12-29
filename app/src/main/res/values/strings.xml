@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Brave Leuterio</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">Hi, My name is Brave Leuterio!\n\nCurrently taking the course
+        Computer Science Specialized in Software Engineering at FEU Institute of Technology
+        \n\nI was born on Nov, 11 2000 and my dream is to ba a successful Android Mobile Developer.
+        \n\nWord word word word word word word word word word word word word word word word word
+        \n\nWord word word word word word word word word word word word word word word word word
+        \n\nWord word word word word word word word word word word word word word word word word
+        \n\nWord word word word word word word word word word word word word word word word word
+        \n\nWord word word word word word word word word word word word word word word word word
+        \n\nWord word word word word word word word word word word word word word word word word
+        \n\nWord word word word word word word word word word word word word word word word word</string>
+    <string name="what_is_your_nickname">What\'s your nickname?</string>
+    <string name="done">Done</string>
+
+</resources>
